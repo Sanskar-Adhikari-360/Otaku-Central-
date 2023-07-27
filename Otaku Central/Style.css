@@ -363,3 +363,6 @@ form p a:hover {
 .episode-navigation .next-episode {
   order: 2;
 }
+.card-hover-fixed{
+  margin: 8px;
+}
